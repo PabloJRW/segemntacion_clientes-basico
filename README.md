@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # segemntacion_clientes-basico
 
 
@@ -25,3 +26,10 @@ Mediante el método de codo, para nuestro caso, podríamos determinar que entre 
     
 Como se menciona anteriormente, la cantidad de segmentos o clusters k es definido mediante criterio experto, el cual podría depender del problema al cual se busca hallar una solución. O bien, podríamos utilizar el método de codo para casos en el cual no tengamos una tarea definida o estemos desarrollando minería de datos.
  
+=======
+# SEGMENTACIÓN DE CLIENTES
+
+Nosotros como persona o empresa, tenemos preferencias, rutinas, comportamientos, etc.,  
+
+La segmentación de clientes es el proceso que permite a las empresas dividir a sus consumidores en categorías específicas, basadas en características que se extraen de su comportamiento como clientes y la información que pueden obtener de sus interacciones con la empresa.
+>>>>>>> 130cea0230b25e83aa3bf421204a1896add89c2a
