@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# segemntacion_clientes-basico
 
-=======
 # Segmentación de clientes
->>>>>>> 5462c3222aad8048610ad8c068eca22a652fe131
 
 La segmentación de clientes es el proceso que permite a las empresas dividir a sus consumidores en categorías específicas, basadas en características que se extraen de su comportamiento como clientes y la información que pueden obtener de sus interacciones con la empresa.
 
@@ -40,22 +35,7 @@ Mediante el método de codo podemos observar que entre nuestros datos existen en
 #### Visualización de los 5 clusters
 <img src="https://github.com/PabloJRW/segmentacion_de_clientes/blob/main/img/cluster_5k.png"/>    
     
-<<<<<<< HEAD
+### Conclusión
 Como se menciona anteriormente, la cantidad de segmentos o clusters k es definido mediante criterio experto, el cual podría depender del problema al cual se busca hallar una solución. O bien, podríamos utilizar el método de codo para casos en el cual no tengamos una tarea definida o estemos desarrollando minería de datos.
  
-=======
-# SEGMENTACIÓN DE CLIENTES
 
-Nosotros como persona o empresa, tenemos preferencias, rutinas, comportamientos, etc.,  
-
-La segmentación de clientes es el proceso que permite a las empresas dividir a sus consumidores en categorías específicas, basadas en características que se extraen de su comportamiento como clientes y la información que pueden obtener de sus interacciones con la empresa.
->>>>>>> 130cea0230b25e83aa3bf421204a1896add89c2a
-=======
-### Datarames de clientes segmentados
-Una vez que etiquetamos a los clientes de nuestra base de datos con el segmento al que pertenecen, obtenemos:
-<img src="https://github.com/PabloJRW/segmentacion_de_clientes/blob/main/img/clientes_segmentados.png"/>
-
-### Conclusión
-La cantidad de segmentos o clusters k es definido mediante criterio experto, el cual podría depender del problema al cual se busca hallar una solución. O bien, podríamos utilizar el método de codo para casos en el cual no tengamos una tarea definida o estemos desarrollando minería de datos.
- 
->>>>>>> 5462c3222aad8048610ad8c068eca22a652fe131
