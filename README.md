@@ -1,12 +1,12 @@
 
 # Segmentación de clientes
 
-La segmentación de clientes es el proceso que permite a las empresas dividir a sus consumidores en categorías específicas, basadas en características que se extraen de su comportamiento como clientes y la información que pueden obtener de sus interacciones con la empresa.
+<span>La segmentación de clientes es el proceso que permite a las empresas dividir a sus consumidores en categorías específicas, basadas en características que se extraen de su comportamiento como clientes y la información que pueden obtener de sus interacciones con la empresa.</span>
 
 Para este proyecto de <b>segmentación de clientes</b>, se usará un algoritmo de aprendizaje no supervisado, <b>k-means</b>; el cual, es un método de agrupamiento, que tiene como objetivo la partición de un conjunto de n observaciones (clientes en este caso) en k cantidades de segmentos, en el que cada observación o cliente quedará clasificado en uno de estos grupos. 
 
 La base de datos que se usará para la elaboración de este cuaderno fue tomado de Kaggle: 
-https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
+<a href="https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python">Dataset</a>
 
 ### Dataset
 <img src="https://github.com/PabloJRW/segmentacion_de_clientes/blob/main/img/data.png"/>
