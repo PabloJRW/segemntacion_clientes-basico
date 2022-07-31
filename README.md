@@ -1,7 +1,7 @@
 
 # Segmentación de clientes
 
-<span>La segmentación de clientes es el proceso que permite a las empresas dividir a sus consumidores en categorías específicas, basadas en características que se extraen de su comportamiento como clientes y la información que pueden obtener de sus interacciones con la empresa.</span>
+<span>La segmentación de clientes es el proceso que permite a las empresas dividir a sus consumidores en categorías específicas, basadas en características, que se extraen de su comportamiento como clientes y la información que pueden obtener de sus interacciones con la empresa.</span>
 
 Para este proyecto de <b>segmentación de clientes</b>, se usará un algoritmo de aprendizaje no supervisado, <b>k-means</b>; el cual, es un método de agrupamiento, que tiene como objetivo la partición de un conjunto de n observaciones (clientes en este caso) en k cantidades de segmentos, en el que cada observación o cliente quedará clasificado en uno de estos grupos. 
 
