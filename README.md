@@ -36,6 +36,6 @@ Mediante el método de codo podemos observar que entre nuestros datos existen en
 <img src="https://github.com/PabloJRW/segmentacion_de_clientes/blob/main/img/cluster_5k.png"/>    
     
 ### Conclusión
-Como se menciona anteriormente, la cantidad de segmentos o clusters k es definido mediante criterio experto, el cual podría depender del problema al cual se busca hallar una solución. O bien, podríamos utilizar el método de codo para casos en el cual no tengamos una tarea definida o estemos desarrollando minería de datos.
+Como se menciona anteriormente, la cantidad de segmentos o clusters k es definido mediante criterio experto, el cual podría depender del problema al cual se busca hallar una solución. O bien, podríamos utilizar el método de codo para casos en el cual no tengamos una tarea definida o estemos desarrollando minería de datos, intentando descubrir patrones.
  
 
